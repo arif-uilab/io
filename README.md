@@ -1469,7 +1469,7 @@
                             <span class="tool-tag">Web Design</span>
                             <span class="tool-tag">Agriculture App</span>
                         </div>
-                        <a href="hhttps://www.figma.com/design/dUSeNijaVnx0qXIQtiWEzn/Fosholer_Chikitsha_Design_Arif?node-id=1102-5206&t=di94ZkYi4vizbsJA-1" target="_blank" class="project-btn">View Project</a>
+                        <a href="https://www.figma.com/design/dUSeNijaVnx0qXIQtiWEzn/Fosholer_Chikitsha_Design_Arif?node-id=1102-5206&t=di94ZkYi4vizbsJA-1" target="_blank" class="project-btn">View Project</a>
                     </div>
                 </div>
                 
