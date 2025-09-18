@@ -1345,7 +1345,7 @@
                     <p>Outside of work, I'm usually learning new design tools, looking at real-world products, and pushing myself to get better every day.</p>
                 </div>
                 <div class="profile-img">
-                    <img src="[https://i.postimg.cc/SQfNgWjS/20250903-1109-Vintage-Room-Solitude-remix-01k46zjwbxerjakqcppk569k7f.png](https://i.postimg.cc/VNH9jdCZ/Whats-App-Image-2025-09-18-at-07-09-41-ad39bf69.jpg)" alt="Arif UX Designer">
+                    <img src="https://i.postimg.cc/VNH9jdCZ/Whats-App-Image-2025-09-18-at-07-09-41-ad39bf69.jpg" alt="Arif UX Designer">
                 </div>
             </div>
         </div>
